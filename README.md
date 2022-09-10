@@ -2,8 +2,6 @@
 
 https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`].
-
 ## Getting Started
 
 First, run the development server:
